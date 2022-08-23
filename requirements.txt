@@ -1,0 +1,13 @@
+jupyter
+numpy
+pandas
+graphviz
+scipy
+gplearn
+sklearn
+baostock
+statsmodels
+cloudpickle
+matplotlib
+numba
+ta
